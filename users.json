@@ -1,0 +1,23 @@
+{
+  "companyName": "TechCorp",
+  "employees": [
+    {
+      "id": 3,
+      "name": "Anna",
+      "position": "Network Administrator",
+      "location": "Buhangin"
+    },
+    {
+      "id": 4,
+      "name": "Sophia",
+      "position": "IT Support Specialist",
+      "location": "Davao City"
+    },
+    {
+      "id": 5,
+      "name": "Jimsal",
+      "position": "Cybersecurity Specialist",
+      "location": "Davao City"
+    }
+  ]
+}
